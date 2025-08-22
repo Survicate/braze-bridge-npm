@@ -1,0 +1,32 @@
+{
+  "name": "@survicate/braze-bridge-npm",
+  "author": {
+    "name": "Survicate",
+    "email": "help@survicate.com"
+  },
+  "version": "1.0.0",
+  "description": "A JavaScript bridge that enables the integration between Braze In-App Messages (IAM) and Survicate surveys by handling iframe clipping and positioning",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "types.d.ts",
+    "core/",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Survicate/braze-bridge-npm.git"
+  },
+  "homepage": "https://github.com/Survicate/braze-bridge-npm#readme",
+  "keywords": [
+    "braze",
+    "survicate",
+    "survey",
+    "iframe",
+    "clipping"
+  ],
+  "license": "MIT"
+}
