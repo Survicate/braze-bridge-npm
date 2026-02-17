@@ -10,6 +10,7 @@ export declare class BrazeIframeClipper {
     private isInitialized;
     constructor(config: ClipperConfig);
     init(): void;
+    private runWhenDocumentReady;
     private setupMutationObserver;
     private findIframe;
     private handleMessage;

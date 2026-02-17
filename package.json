@@ -4,7 +4,7 @@
     "name": "Survicate",
     "email": "help@survicate.com"
   },
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A JavaScript bridge that enables the integration between Braze In-App Messages (IAM) and Survicate surveys by handling iframe clipping and positioning",
   "main": "index.js",
   "types": "index.d.ts",
